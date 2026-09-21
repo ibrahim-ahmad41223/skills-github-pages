@@ -1,5 +1,5 @@
 ---
 title: Welcome to this Random Website!
-<h1>Random website</h1>
-<p>Content....</p>
+h1: Random Website
+p: Content....
 ---
